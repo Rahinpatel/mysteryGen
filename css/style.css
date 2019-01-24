@@ -94,6 +94,7 @@ nav.main-header {
   height: 100px;
   display: grid;
   grid-template-columns: 1fr 2fr;
+    color: #000000;
   position: fixed;
   top:0;
   z-index: 10;
@@ -105,7 +106,7 @@ nav.main-header.navShadow {
   -webkit-box-shadow: 0 4px 30px -5px rgba(0, 0, 0, 0.2);
   box-shadow: 0 4px 30px -5px rgba(0, 0, 0, 0.2);
   height: 80px;
-     background: #00BCD4;
+     background: #000000;
 }
 
 nav.navShadow #word-mark {
